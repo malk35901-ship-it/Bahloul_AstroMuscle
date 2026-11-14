@@ -43,7 +43,3 @@ pytest -q
 - `database.py` — local records and immutable-in-spirit virtual decision history
 - `nasa_data.py` — NASA public-data provenance and scope statements
 - `seed_demo.py` — reproducible local dashboard records plus virtual decision history
-
-## Limitations
-
-No open NASA source located in this work provides correctly matched astronaut surface-EMG records for training or validating this model. Therefore no accuracy, sensitivity, specificity, efficacy, or clinical claim is made. The data-quality metric is coverage only, and all decisions remain virtual software states.
